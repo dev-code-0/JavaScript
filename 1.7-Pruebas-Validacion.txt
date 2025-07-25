@@ -1,0 +1,13 @@
+Pruebas y validación de algoritmos
+Son procesos fundamentales en el proceso de la creación de un programa para garantizar que funciones correctamente.
+
+Pruebas: Ejecuta el elgoritmo con diferentes conjuntos de datos de entrada.
+    Pruebas Unitarias: Valida partes especificas del programa.
+    Pruebas de integración: Comprueba como interactuan diferentes partes del sistema.
+    Pruebas de estres: Evalua el rendimiento bajo condiciones extremas.
+    Prubeas de casos limites: usar entradas que podrian causar errores o comportamientos inesperados.
+
+Validación: Evalua que el algoritmo cumple con los objetivos y requisitos definidoS.
+    Comprar los resultados con valores esperados o modelos teoricos.
+    Confirmar que el algoritmo resuelve el problema para el cual fue diseñado.
+    Evalua su precisión, eficiencia y robustez.

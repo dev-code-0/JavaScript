@@ -1,0 +1,8 @@
+Comentarios y documentación
+
+Comentarios:
+Los comentarios son lineas de código que no son ejecutables por el editor.
+Se utilizan para describir la funcionalidad de una parte de código.
+
+Documentación:
+Es información estructurada que describe como funciona el programa, puede incluir a detalles tecnicos y explicaciones sobre el uso del código.

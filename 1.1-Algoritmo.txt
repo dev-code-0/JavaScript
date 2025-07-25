@@ -1,0 +1,14 @@
+ ¿Que es un algoritmo?
+ Es un conjunto de pasos definidos y estructurados que sirven para dar solución eficiente a un problema.
+ Un algoritmo tiene un inicio y un fin.
+
+ un ejemplo: sumar dos números
+ 1. Leer el primer número1
+ 2. Leer el segundo número2
+ 3. Hacer la suma de ambos números
+ 4. Mostrar el resultado
+
+ Son importantes para solucionar problemas complejos en pasos simples, con soluciones más rapidas.
+ Los algoritmos bien diseñados pueden ser reutilizados en diferentes contextos.
+
+ 

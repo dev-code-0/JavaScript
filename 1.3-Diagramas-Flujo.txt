@@ -1,0 +1,3 @@
+Diagramas de flujo
+Son representaciones graficas, que son las representaciones de los pasos del algoritmo para reslver un problema.
+Utilizan simbolos como, rectángulos, rombos, óvalos y flechas. 

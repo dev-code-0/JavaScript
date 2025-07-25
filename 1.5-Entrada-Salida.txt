@@ -1,0 +1,7 @@
+Entradas y Salidas
+Entrada: Datos que el programa recibe para procesar.
+puedes ser ingresados a travez de teclado, archivos, base de datos, etc.
+
+Salida: Resultados que el programa muestra despues de procesar los datos:
+Se pueden mostrar en pantalla, guardandose en archivos, ejemplo: mostrar por consola un mensaje.
+En javascript las entradas y salidas se manejan mediante funciones como prompt() para entrada y console.log() para salida

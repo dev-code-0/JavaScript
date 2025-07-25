@@ -1,0 +1,14 @@
+¿Qué es un pseudocódigo?
+un pseudocódigo es una herramienta utilizada en programación, que ayuda a describir algoritmos de forma estructurada
+sin necesidad de una sintaxis especifica de un leguaje de programación.
+
+Es el puente entre el lenguaje natural humano y el lenguaje código fuente.
+ejemplo
+Inicio
+    leer numero1, numero2
+    si numero1 > numero2 entonces
+        imprimir "El numero1 es mayor"
+    sino
+        imprimir "El numero2 es mayor"    
+    Fin si
+Fin

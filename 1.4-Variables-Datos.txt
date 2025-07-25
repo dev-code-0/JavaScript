@@ -1,0 +1,53 @@
+Variables y Tipos de datos
+Son utilizadas para almacenar datos en memoria del programa.
+
+En javascript se pueden declara variables utilizando var, let y const.
+El nombre de cada variable debe ser única.
+Una variable puede almacenar diferentes tipos, numeros, letras, imagenes, etc.
+
+Los tipos de datos:
+en javascript los tipos de datos se dividen en dos, primitivos y complejos.
+
+Primitivos:
+1. Number: numeros enteros o decimales
+    let numero = 28
+    let precio = 10.90
+    let edad = 22
+
+2. String: cadenas de texto.
+    let saludo = "Hola, buenos dias"
+    let nombre = "José"
+    let letra = "L"
+
+3. Boolean: Representa verdad o falso.
+    let activo = true
+    let apagado = false
+
+4. Undefined: Una variable declarada, pero no tiene valor asignado.
+    let sinValor
+    console.log(sinValor); //undefined
+
+5. Null: No tiene valor asignado
+    let vacio = null
+
+6. Symbol: Representa valores único e inmutables.
+    let id = Symbol("id")
+
+Complejos:
+1. Objetos: Permite agrupar datos y funcionalidades relacionadas
+    let persona = { nombre: 'José', edad: 22 }
+    let animal = { raza: 'perro', patas: 4 }
+
+2. Arreglos: Permite almacenar una coleción de elementos.
+    let colores: ['Rojo', 'Azul', 'Verde', 'Rosa']
+    let numeros: [1, 2, 3, 4, 5]
+
+3. Funciones: Es un bloque de código reutilizable que realiza una tarea especifica.
+    function saludar(){
+        console.log('Hola mundo')
+    }
+
+let: Pertmite reasignar valores.
+const: El valor es único, no permite reasiganr.
+var: Tiene alcance de función y puede ser sobreescrito.
+
