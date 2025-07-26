@@ -1,0 +1,12 @@
+Historia y propósito de javascript
+javascript fue creado en 1995 por Brendan Eich mientras trabajaba en Netscape, Se desarrollo en solo 10 días y como 
+primer nombre tuvo mocha, luego livescript, y finalmente se quedo con javascript.
+
+Propósito:
+El propósito principal es permitir que los desarrolladores creen experiencias dinámica e interactivas con los navegadores
+y ahora se utiliza tambien en servidores con node.js aplicaciones moviles, de escritorio, video juegos.
+
+Manipulación del DOM para actulizar contenido dinamicamente.
+Validación de formularios en el cliente.
+Comunicación con servidores mediante AJAX y APIS
+Creaciones de aplicaciones completas del lado del cliente y del servidor.
